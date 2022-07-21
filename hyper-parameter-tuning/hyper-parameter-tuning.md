@@ -1,0 +1,3 @@
+- grid search
+- random search 
+- Bayesian Optimization
