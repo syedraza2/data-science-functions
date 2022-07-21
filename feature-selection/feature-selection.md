@@ -4,4 +4,6 @@
 - ROC vs # features (elbow method)
 - permutation feature importance
 - recursive feature importance
+- chi-squared for categorical 
+- ANOVA F-value for numerical
 - Fischer's score 
