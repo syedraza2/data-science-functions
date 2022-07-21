@@ -1,0 +1,5 @@
+- merges
+- make new columns
+- breaking up string variables 
+- nested loops 
+- indexing
