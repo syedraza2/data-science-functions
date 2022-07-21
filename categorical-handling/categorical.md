@@ -1,0 +1,4 @@
+- OHE - One Hot Encoding
+- mean encoding 
+- WOE - Weight Of Evidence
+- ordinal Encoding 
