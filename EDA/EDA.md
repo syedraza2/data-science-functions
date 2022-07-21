@@ -1,0 +1,5 @@
+- describe
+- pivot tables 
+- segmentation
+- qcuts and cuts 
+- kde distributions
