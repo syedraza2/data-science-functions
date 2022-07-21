@@ -3,3 +3,4 @@
 - breaking up string variables 
 - nested loops 
 - indexing
+- preprocessing dates and times 
