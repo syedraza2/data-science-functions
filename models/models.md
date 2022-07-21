@@ -2,5 +2,6 @@
   - Regressor
   - Classifier
 - Logistic
-- Clustering 
+- Clustering
+- random forests 
 - Neural Network
