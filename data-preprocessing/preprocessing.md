@@ -1,0 +1,6 @@
+- remove monotonous variables
+- remove low variance variables 
+- remove outliers
+- data type checks 
+- drop features based on a list 
+- standardization 
