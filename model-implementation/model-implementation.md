@@ -1,0 +1,7 @@
+- saving model objects as pkl files
+- scoring models 
+- wrapping model objects in flask (web app)
+- create docker images 
+- host docker images on aws 
+- test API on Postman 
+- convert to json and, arrays to json
