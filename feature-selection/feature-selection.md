@@ -1,0 +1,7 @@
+- XGBoost feature importance
+  - weight, gain, cover
+- l1 regularization 
+- ROC vs # features (elbow method)
+- permutation feature importance
+- recursive feature importance
+- Fischer's score 
