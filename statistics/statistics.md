@@ -1,0 +1,4 @@
+- test design
+- t-test
+- power analysis
+- sample size 
