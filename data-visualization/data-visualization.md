@@ -1,0 +1,3 @@
+- seaborn
+- matplotlib
+- dynamic sankey charts 
