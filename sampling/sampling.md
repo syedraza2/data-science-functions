@@ -1,0 +1,4 @@
+- random sampling
+- stratified sampling 
+- undersampling, oversampling 
+- probability calibration of undersampled data 
