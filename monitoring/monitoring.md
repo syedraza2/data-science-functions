@@ -1,0 +1,4 @@
+- PSI
+- log odds
+- deciles - actual vs predicted
+- model drift
