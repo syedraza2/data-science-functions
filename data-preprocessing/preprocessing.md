@@ -5,4 +5,4 @@
 - data type checks 
 - drop features based on a list 
 - standardization 
-- preprocessing dates and times 
+- train-test split
